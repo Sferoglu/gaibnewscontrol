@@ -6,7 +6,7 @@ class Alert:
     def email_alert(subject, body, to):
         # gmail account
         user = "xrysjrsf@gmail.com"
-        password = "P@r0lagmail"
+        password = "********"
         # blurred the password for obvious reasons
 
         # mail message initialization
